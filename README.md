@@ -8,7 +8,7 @@ Este repositório contém scripts de automação de testes para um aplicativo An
 - PyCharm - IDE utilizada para desenvolvimento dos testes
 
 ## Anonimização dos Scripts
-Para preservar a confidencialidade do projeto, foram realizados diversos ajustes para anonimização dos testes, garantindo que nenhuma informação sensível ou proprietária esteja presente no código compartilhado.
+Para preservar a confidencialidade do projeto, foram realizados diversos ajustes para anonimização dos testes, garantindo que nenhuma informação sensível ou proprietária esteja presente no código compartilhado. Este script foi desenvolvido com fins demonstrativos e não é funcional para execução. Todas as informações e valores apresentados são fictícios e não representam dados reais ou sensíveis.
 
 ## Considerações Finais
 Estes scripts foram projetados para demonstrar conhecimento em automação de testes móveis, boas práticas e uso de ferramentas do ecossistema Python + Appium. Se tiver interesse em discutir melhorias ou colaborações, entre em contato!
